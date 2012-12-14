@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <resources>
-    <color name="textColorIconOverlay">#fff</color>
-    <color name="textColorIconOverlayShadow">#000</color>
+    <color name="textColorIconOverlay">#ffffffff</color>
+    <color name="textColorIconOverlayShadow">#ff000000</color>
 
     <color name="shortcut_overlay_text_background">#7f000000</color>
 
