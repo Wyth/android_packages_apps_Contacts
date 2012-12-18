@@ -19,7 +19,7 @@
 
     <color name="shortcut_overlay_text_background">#7f000000</color>
 
-    <color name="quickcontact_list_divider">#ffcdcdcd</color>
+    <color name="quickcontact_list_divider">#ff000000</color>
     <color name="quickcontact_list_background">#ffe2e2e2</color>
     <color name="quickcontact_tab_indicator">#ff33b5e6</color>
 
@@ -89,7 +89,7 @@
     <color name="call_log_voicemail_status_text_color">#888888</color>
     <color name="call_log_voicemail_status_action_text_color">#33b5e5</color>
     <color name="call_detail_background">#ff000000</color>
-    <color name="call_detail_separator">#ff33b5e5</color>
+    <color name="call_detail_separator">#ff000000</color>
     <color name="call_detail_photo_bg">#7f000000</color>
     <color name="call_log_divider">#55ffffff</color>
     <color name="detail_tab_carousel_tab_label_Background_color">#7f000000</color>
