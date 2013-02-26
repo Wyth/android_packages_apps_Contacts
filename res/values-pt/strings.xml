@@ -570,6 +570,7 @@
     <string name="menu_export_database" msgid="2659719297530170820">"Exportar arquivos do banco de dados"</string>
     <string name="action_menu_overflow_description" msgid="2303272250613084574">"Mais opções"</string>
     <string name="expand_collapse_name_fields_description" msgid="8682630859539604311">"Expandir ou recolher campos de nome"</string>
+
     <string name="dialer_ui_title">Configurações do teclado</string>
     <string name="dialer_ui_orientation_title">Habilitar sensor de orientação</string>
     <string name="dialer_ui_orientation_summary">Girar teclado baseado no sensor</string>
@@ -637,4 +638,5 @@
     <string name="date_qs_lastmonth">Último mês</string>
     <string name="date_qs_lastquarter">Último trimestre</string>
     <string name="date_qs_lastyear">Último ano</string>
+
 </resources>
