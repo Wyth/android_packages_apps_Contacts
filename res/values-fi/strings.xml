@@ -570,6 +570,7 @@
     <string name="menu_export_database" msgid="2659719297530170820">"Vie tietokantatiedostot"</string>
     <string name="action_menu_overflow_description" msgid="2303272250613084574">"Lisää vaihtoehtoja"</string>
     <string name="expand_collapse_name_fields_description" msgid="8682630859539604311">"Laajenna tai tiivistä nimikentät"</string>
+
     <string name="dialer_ui_title">Numerovalitsimen asetukset</string>
     <string name="dialer_ui_orientation_title">Näytön asento tunnistimen mukaan</string>
     <string name="dialer_ui_orientation_summary">Käännä numerovalitsinta tunnistimen mukaan</string>
